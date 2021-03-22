@@ -8,7 +8,8 @@ export const TrendsContainer = styled(Container)`
 `
 
 export const TrendsShoesContainer = styled(Container)`
-    width: 60%;
+    width: 74%;
     flex-wrap: wrap;
     justify-content: space-around;
+    padding-bottom: 50px;
 `

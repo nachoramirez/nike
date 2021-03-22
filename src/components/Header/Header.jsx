@@ -1,21 +1,58 @@
 import React from 'react'
-import { Logo, Cart,Categories, HeaderContainer,Category,CartNumber } from './Header'
+import {
+  Logo,
+  Cart,
+  Categories,
+  HeaderContainer,
+  Category,
+  CartNumber,
+} from './Header'
+import { Link } from 'react-router-dom'
 
 const Header = () => {
-    return (
-        <HeaderContainer>
-            <Logo src='https://i.pinimg.com/originals/20/60/2d/20602d43cc993811e5a6bd1886af4f33.png'/>
-            <Cart src='https://img.icons8.com/windows/64/000000/shopping-cart.png'/>
-            <CartNumber>(0)</CartNumber>
-            <Categories>
-                <Category>RUNNING</Category>
-                <Category>TRAINING</Category>
-                <Category>FUTBOL</Category>
-                <Category>SPORTSWEAR</Category>
-                <Category>JORDAN</Category>
-            </Categories>
-        </HeaderContainer>
-    
-    )
+  return (
+    <HeaderContainer>
+      <Link
+        to="/"
+        style={{ color: 'inherit', textDecoration: 'inherit' }}
+      >
+        <Logo src="https://i.pinimg.com/originals/20/60/2d/20602d43cc993811e5a6bd1886af4f33.png" />
+      </Link>
+      <Cart src="https://img.icons8.com/windows/64/000000/shopping-cart.png" />
+      <CartNumber>(0)</CartNumber>
+      <Categories>
+        <Link
+          to="/running"
+          style={{ color: 'inherit', textDecoration: 'inherit' }}
+        >
+          <Category>RUNNING</Category>
+        </Link>
+        <Link
+          to="/training"
+          style={{ color: 'inherit', textDecoration: 'inherit' }}
+        >
+          <Category>TRAINING</Category>
+        </Link>
+        <Link
+          to="/futbol"
+          style={{ color: 'inherit', textDecoration: 'inherit' }}
+        >
+          <Category>FUTBOL</Category>
+        </Link>
+        <Link
+          to="/sportswear"
+          style={{ color: 'inherit', textDecoration: 'inherit' }}
+        >
+          <Category>SPORTSWEAR</Category>
+        </Link>
+        <Link
+          to="/jordan"
+          style={{ color: 'inherit', textDecoration: 'inherit' }}
+        >
+          <Category>JORDAN</Category>
+        </Link>
+      </Categories>
+    </HeaderContainer>
+  )
 }
 export default Header

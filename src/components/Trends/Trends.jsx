@@ -15,6 +15,7 @@ const Trends = () => {
         <ShoeCard />
         <ShoeCard />
         <ShoeCard />
+        <ShoeCard />
       </TrendsShoesContainer>
     </TrendsContainer>
   )
