@@ -18,7 +18,7 @@ export const Ul = styled.ul`
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #E6E6E6;
+  background-color: #F1F1F1;
 `;
 
 
@@ -32,6 +32,7 @@ export const Dropbtn = styled.div`
 `;
 
 export const DropDownContent = styled.div`
+  border-radius: 3px;
   display: none;
   position: absolute;
   background-color: #f9f9f9;
@@ -43,7 +44,7 @@ export const DropDownContent = styled.div`
 export const DropDownLi = styled.li`
   display: inline-block;
   &:hover {
-    background-color: #DEDEDE;
+    background-color: #B9B9B9;
   }
   &:hover ${DropDownContent} {
     display: block;
@@ -58,6 +59,6 @@ export const DropDownOption = styled.a`
   display: block;
   text-align: left;
   &:hover {
-    background-color: #f1f1f1;
+    background-color: #B9B9B9;
   }
 `;

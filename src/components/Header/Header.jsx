@@ -18,8 +18,13 @@ const Header = () => {
       >
         <Logo src="https://i.pinimg.com/originals/20/60/2d/20602d43cc993811e5a6bd1886af4f33.png" />
       </Link>
-      <Cart src="https://img.icons8.com/windows/64/000000/shopping-cart.png" />
-      <CartNumber>(0)</CartNumber>
+      <Link
+        to="/cart"
+        style={{ color: 'inherit', textDecoration: 'inherit' }}
+      >
+        <Cart src="https://img.icons8.com/windows/64/000000/shopping-cart.png" />
+        <CartNumber>(0)</CartNumber>
+      </Link>
       <Categories>
         <Link
           to="/running"

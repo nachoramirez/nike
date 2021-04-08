@@ -2,10 +2,11 @@ import styled from 'styled-components'
 import { Container } from '../../containers/Containers.js'
 
 export const ShoeCardContainer = styled(Container)`
+  background-color: white;
   width: 18%;
   height: 40%;
   flex-direction: column;
-  border: solid grey 1px;
+  border: #C9C9C9 solid 1px;
   border-radius: 10px;
   padding: 10px;
   justify-content: space-between;
