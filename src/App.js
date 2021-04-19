@@ -6,6 +6,7 @@ import Home from './containers/Home/Home.jsx'
 import Collections from './containers/Collections/Collections.jsx'
 import Header from './components/Header/Header.jsx'
 import CartPage from './containers/CartPage/CartPage.jsx'
+import ProductPage from './containers/ProductPage/ProductPage.jsx'
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
           <Route exact path="/sportswear" component={Collections} />
           <Route exact path="/jordan" component={Collections} />
           <Route exact path="/Cart" component={CartPage} />
+          <Route exact path='/item/:id' component={ProductPage} />
         </Switch>
       </div>
     </BrowserRouter>
