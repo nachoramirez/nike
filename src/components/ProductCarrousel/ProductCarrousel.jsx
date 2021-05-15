@@ -9,11 +9,13 @@ const CarrouselImages = [
   'https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw2c8d4511/products/NI_BQ3204-002/NI_BQ3204-002-4.JPG',
 ]
 
-const ProductCarrousel = () => {
+const ProductCarrousel = ({data}) => {
+
+
   return (
     <ProductCarrouselContainer>
       <Carousel>
-        {CarrouselImages.map((item, id) => (
+        {data.map((item, id) => (
           <ItemImage key={id} src={item} />
         ))}
       </Carousel>

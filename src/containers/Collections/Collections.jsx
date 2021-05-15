@@ -1,16 +1,19 @@
 import React from 'react'
 
+
 import ShoeCollection from '../../components/ShoeCollection/ShoeCollection.jsx'
 import DropDown from '../../components/DropDown/DropDown.jsx'
+import { CollectionContainer } from './Collections'
 
-import {CollectionContainer} from './Collections'
 
-const Collections = ({location}) => {
-  const Category = location.pathname
-  return (
+const Collections = ({ location }) => {
+  const path = location.pathname
+  const Category = path.substring(1)
+
+  return ( 
     <CollectionContainer>
-        <DropDown />
-        <ShoeCollection Category={Category} />
+      <DropDown />
+      <ShoeCollection Category={Category} />
     </CollectionContainer>
   )
 }

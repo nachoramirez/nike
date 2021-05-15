@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { useHistory } from 'react-router-dom'
 import {
   ProductInfoContainer,
   ProductTitle,
@@ -12,25 +12,26 @@ import {
   SubmitButton,
 } from './ProductInfo.js'
 
-const ProductInfo = () => {
-  const sizeList = [34, 35, 36, 37, 38, 39, 40, 41, 42]
+const ProductInfo = ({data}) => {
+  const {sizes, name, price, id } = data
+  const History = useHistory()
+
   return (
     <ProductInfoContainer>
-      <ProductTitle> Zapatillas Nike Super Re copadas</ProductTitle>
-      <ProductId> Item № 8504</ProductId>
-      <ProductPrice> $8.400</ProductPrice>
+      <ProductTitle> {name}</ProductTitle>
+      <ProductId> Item № {id}</ProductId>
+      <ProductPrice> {price }</ProductPrice>
       <FormTitle> Size: </FormTitle>
       <SizeForm>
-        {sizeList.map((id) => (
+        {sizes.map((id) => (
           <>
             <Input type="radio" id={id} name="size" value={id} />
             <Label for={id}>{id}</Label>
           </>
         ))}
       </SizeForm>
-      <Link to='/cart'>
-        <SubmitButton> ADD TO CART</SubmitButton>
-      </Link>
+
+      <SubmitButton onClick={() => History.push('/cart')}> ADD TO CART</SubmitButton>
     </ProductInfoContainer>
   )
 }

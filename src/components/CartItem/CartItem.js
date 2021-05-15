@@ -11,7 +11,7 @@ export const CartItemImg = styled.img`
   height: 130px;
   width: 130px;
   object-fit: scale-down;
-  border: solid 1px black;
+  border: solid 1px #4d2b8c;
   border-radius: 5px;
   background-color: white;
 `

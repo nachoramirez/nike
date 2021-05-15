@@ -1,20 +1,22 @@
 import React from 'react'
-import { CartContainer, CartButton,CartButtonContent } from './Cart'
+import { useHistory } from 'react-router-dom'
+import { CartContainer, CartButton  } from './Cart'
 import { Link } from 'react-router-dom'
 
 import CartHeader from '../CartHeader/CartHeader.jsx'
 import CartItem from '../CartItem/CartItem.jsx'
 
-const Cart = ({history}) => {
+const Cart = ({ history }) => {
+  const History = useHistory(useHistory)
   return (
     <CartContainer>
       <CartHeader history={history} />
       <CartItem />
       <CartItem />
       <CartItem />
-      <Link style={{ color: 'inherit',textDecoration: 'inherit'}}>
-        <CartButtonContent>CHECKOUT 🠒</CartButtonContent>
-      </Link>
+      <CartButton onClick={() => History.push()}>
+        CHECKOUT 🠒
+      </CartButton>
     </CartContainer>
   )
 }

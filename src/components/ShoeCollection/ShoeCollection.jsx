@@ -1,30 +1,35 @@
-import React from 'react'
+import React, { useEffect} from 'react'
 import ShoeCard from '../ShoeCard/ShoeCard.jsx'
 import { Container } from '../../containers/Containers.js'
+import { useSelector, useDispatch } from 'react-redux'
+import { CallCategoy } from '../../redux/Actions/index'
+import Loading from '../Loading/Loading.jsx'
 
-import { ShoeCollectionContainer,CollectionCategory,CollectionResults } from './ShoeCollection.js'
+import {
+  ShoeCollectionContainer,
+  CollectionCategory,
+  CollectionResults,
+} from './ShoeCollection.js'
 
-const ShoeCollection = ({Category}) => {
-    
-  return (
+const ShoeCollection = ({ Category }) => {
+  const dispatch = useDispatch()
+  const data =  useSelector(store => store.initialReducer.products)
+
+
+  useEffect(() => {
+    dispatch(CallCategoy(Category))
+  }, [Category])
+
+  return ( data === undefined ? <Loading /> :
     <Container>
-      <CollectionCategory> {Category.toUpperCase().substring(1)} </CollectionCategory>
-      <CollectionResults> 30 resultados </CollectionResults>
+      <CollectionCategory>
+        {Category.toUpperCase()}
+      </CollectionCategory>
+      <CollectionResults> {data.length} resultados </CollectionResults>
       <ShoeCollectionContainer>
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
-        <ShoeCard />
+        {data.map((data) => (
+          <ShoeCard category={Category} data={data}/>
+        ))}
       </ShoeCollectionContainer>
     </Container>
   )

@@ -15,5 +15,8 @@ export const ContinueShopping = styled.p`
     padding: 11px;
     color: #777777;
     text-decoration: underline #777777 solid; 
+    &:hover {
+      cursor: pointer;
+    }
 
 `

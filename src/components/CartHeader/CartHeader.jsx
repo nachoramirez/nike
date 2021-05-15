@@ -6,7 +6,7 @@ const CartHeader = ({ history }) => {
   return (
     <CartHeaderContainer>
       <CartTitle> Your Cart </CartTitle>
-      <ContinueShopping onClick='./'> Continous shopping </ContinueShopping>
+      <ContinueShopping onClick={() => history.goBack()}> Continous shopping </ContinueShopping>
     </CartHeaderContainer>
   )
 }

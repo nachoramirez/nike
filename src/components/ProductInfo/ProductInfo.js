@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Container } from '../../containers/Containers.js'
+import { Container, Button } from '../../containers/Containers.js'
 
 export const ProductInfoContainer = styled(Container)`
   width: 40%;
@@ -26,6 +26,10 @@ export const Label = styled.label`
   border-radius: 80px;
   transition: all 0.1s;
   margin: 5px;
+  &:hover {
+    border: solid 2px #673ab7;
+    cursor: pointer;
+  }
 `
 
 export const Input = styled.input`
@@ -43,18 +47,7 @@ export const FormTitle = styled(ProductTitle)`
   margin: 10px 0 0 0;
 `
 
-export const SubmitButton = styled.button`
-  justify-self:center;
-  background-color: #673ab7;
-  border: 2px solid;
+export const SubmitButton = styled(Button)`
   height: 50px;
   width: 80%;
-  color: #fff;
-  transition: 0.25s;
-  &:hover,
-  &:focus { 
-    border-color: #4D2B8C;
-    color: #fff;
-    box-shadow: inset 30em 0 0 0 #4D2B8C;
-  }
 `

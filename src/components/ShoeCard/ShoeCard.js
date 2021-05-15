@@ -4,17 +4,17 @@ import { Container } from '../../containers/Containers.js'
 export const ShoeCardContainer = styled(Container)`
   background-color: white;
   width: 18%;
-  height: 40%;
+  height: 320px;
   flex-direction: column;
   border: #C9C9C9 solid 1px;
   border-radius: 10px;
   padding: 10px;
   justify-content: space-between;
   margin: 8px 15px;
-
+  cursor: pointer;
   &:hover{
   /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  box-shadow: rgba(77, 43, 140) 0px 5px 15px;
   }
 `
 

@@ -19,6 +19,8 @@ export const Ul = styled.ul`
   padding: 0;
   overflow: hidden;
   background-color: #F1F1F1;
+cursor: pointer;
+
 `;
 
 
@@ -44,7 +46,8 @@ export const DropDownContent = styled.div`
 export const DropDownLi = styled.li`
   display: inline-block;
   &:hover {
-    background-color: #B9B9B9;
+    background-color: #673ab7;
+    color: white;
   }
   &:hover ${DropDownContent} {
     display: block;
@@ -59,6 +62,7 @@ export const DropDownOption = styled.a`
   display: block;
   text-align: left;
   &:hover {
-    background-color: #B9B9B9;
+  color: white;
+    background-color: #673ab7;
   }
 `;

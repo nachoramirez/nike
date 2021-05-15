@@ -34,12 +34,14 @@ export const Categories = styled(Container)`
 `
 export const Category = styled.h1`
   padding: 0 10px 10px 10px;
-  /* border-bottom: solid black 3px; */
-  border-bottom: solid #9C9C9C 2px;
+  border-bottom: ${(props) => (props.selected ? 'solid #673ab7 2px'  : 'solid #9C9C9C 2px')};
   font-size: 22px;
   transition: 300ms;
+  color: ${(props) => (props.selected ? '#673ab7'  : 'black')};
   &:hover {
+    border-bottom-color: #673ab7 ;
     padding: 0 15px 40px 15px;
+    color: #673ab7;
     font-size: 28px;
   }
 `
