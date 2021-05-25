@@ -6,7 +6,13 @@ const CartHeader = ({ history }) => {
   return (
     <CartHeaderContainer>
       <CartTitle> Your Cart </CartTitle>
-      <ContinueShopping onClick={() => history.goBack()}> Continous shopping </ContinueShopping>
+      {history != undefined ? (
+        <ContinueShopping onClick={() => history.goBack()}>
+          Continous shopping
+        </ContinueShopping>
+      ) : (
+        <> </>
+      )}
     </CartHeaderContainer>
   )
 }

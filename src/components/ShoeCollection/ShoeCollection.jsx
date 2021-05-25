@@ -1,8 +1,8 @@
-import React, { useEffect} from 'react'
+import React, { useEffect, useState} from 'react'
 import ShoeCard from '../ShoeCard/ShoeCard.jsx'
 import { Container } from '../../containers/Containers.js'
 import { useSelector, useDispatch } from 'react-redux'
-import { CallCategoy } from '../../redux/Actions/index'
+import { callCategoy } from '../../redux/Actions/index'
 import Loading from '../Loading/Loading.jsx'
 
 import {
@@ -13,22 +13,23 @@ import {
 
 const ShoeCollection = ({ Category }) => {
   const dispatch = useDispatch()
-  const data =  useSelector(store => store.initialReducer.products)
+  const data =  useSelector(store => store.initialReducer)
+  const isLoading = useSelector(store => store.initialReducer.productsIsLoading)
 
-
+  //calling api
   useEffect(() => {
-    dispatch(CallCategoy(Category))
-  }, [Category])
+    dispatch(callCategoy(Category))
+  }, [Category]) //recall api when the element caregory changes
 
-  return ( data === undefined ? <Loading /> :
+  return ( isLoading ? <Loading /> :
     <Container>
       <CollectionCategory>
         {Category.toUpperCase()}
       </CollectionCategory>
-      <CollectionResults> {data.length} resultados </CollectionResults>
+      <CollectionResults> {data.products.length} resultados </CollectionResults>
       <ShoeCollectionContainer>
-        {data.map((data) => (
-          <ShoeCard category={Category} data={data}/>
+        {data.products.map((data, key) => (
+          <ShoeCard key={key} category={Category} data={data}/>
         ))}
       </ShoeCollectionContainer>
     </Container>

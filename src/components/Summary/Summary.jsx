@@ -1,23 +1,29 @@
 import React from 'react'
 import { SummaryContainer, SummaryDetails, SummaryTotal } from './Summary'
+import { useSelector } from 'react-redux'
 
 const Summary = () => {
+  const data = useSelector((store) => store.initialReducer.cart)
+  let total = 0
+  const delivery = 350
+
+  data.map((item) => (total += parseInt(item.price)))
   return (
     <SummaryContainer>
       <SummaryDetails>
-        <p>1 PRODUCT</p>
+        <p>{data.length} PRODUCT</p>
       </SummaryDetails>
       <SummaryDetails>
         <p>Product total</p>
-        <p>$800.00</p>
+        <p>${data.length === 0 ? 0 : total}</p>
       </SummaryDetails>
       <SummaryDetails>
         <p>Delivery</p>
-        <p>$50.00</p>
+        <p>${delivery}</p>
       </SummaryDetails>
       <SummaryTotal>
         <p>TOTAL</p>
-        <p>$50.00</p>
+        <p>${total + delivery}</p>
       </SummaryTotal>
     </SummaryContainer>
   )

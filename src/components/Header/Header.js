@@ -12,6 +12,7 @@ export const HeaderContainer = styled(Container)`
 export const Logo = styled.img`
   height: 50px;
   margin: 40px 0px;
+  cursor: pointer;
 `
 
 export const Cart = styled.img`
@@ -19,12 +20,14 @@ export const Cart = styled.img`
   position: absolute;
   right: 80px;
   top: 20px;
+  cursor: pointer;
 `
 
 export const CartNumber = styled.h3`
   position: absolute;
   right: 60px;
   top: 10px;
+  cursor: pointer;
 `
 
 export const Categories = styled(Container)`
@@ -39,8 +42,9 @@ export const Category = styled.h1`
   transition: 300ms;
   color: ${(props) => (props.selected ? '#673ab7'  : 'black')};
   &:hover {
+    cursor: pointer;
     border-bottom-color: #673ab7 ;
-    padding: 0 15px 40px 15px;
+    padding: 0 15px 60px 15px;
     color: #673ab7;
     font-size: 28px;
   }

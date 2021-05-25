@@ -1,5 +1,5 @@
 import React from 'react'
-import { useLocation } from 'react-router-dom'
+import { useLocation, useHistory } from 'react-router-dom'
 import {
   Logo,
   Cart,
@@ -8,40 +8,51 @@ import {
   Category,
   CartNumber,
 } from './Header'
-import { Link } from 'react-router-dom'
+
+
+
+import { useSelector } from 'react-redux'
 
 const Header = () => {
-  const Location = useLocation(useLocation)
+  const location = useLocation(useLocation)
+  const history = useHistory()
+  const cart = useSelector((store) => store.initialReducer.cart)
 
   const CategoriesList = [
     { name: 'RUNNING', path: '/running' },
     { name: 'TRAINING', path: '/training' },
     { name: 'FUTBOL', path: '/futbol' },
     { name: 'SPORTSWEAR', path: '/sportswear' },
-    { name: 'JORDAN', path: '/jordan' },
+    { name: 'BASQUET', path: '/basquet' },
   ]
 
   return (
     <HeaderContainer>
-      <Link to="/" style={{ color: 'inherit', textDecoration: 'inherit' }}>
-        <Logo src="https://i.pinimg.com/originals/20/60/2d/20602d43cc993811e5a6bd1886af4f33.png" />
-      </Link>
-      <Link to="/cart" style={{ color: 'inherit', textDecoration: 'inherit' }}>
-        <Cart src="https://img.icons8.com/windows/64/000000/shopping-cart.png" />
-        <CartNumber>(0)</CartNumber>
-      </Link>
+      <Logo
+        onClick={() => history.push('')}
+        src="https://i.pinimg.com/originals/20/60/2d/20602d43cc993811e5a6bd1886af4f33.png"
+      />
+      <>
+        <Cart
+          onClick={() => history.push('/cart')}
+          src="https://img.icons8.com/windows/64/000000/shopping-cart.png"
+        />
+        <CartNumber onClick={() => history.push('/cart')}>
+          ({cart.length})
+        </CartNumber>
+      </>
       <Categories>
-        {CategoriesList.map(({ path, name }, key) => {
-          const currentPath = Location.pathname
+        {CategoriesList.map(({ path, name }, id) => {
+          const currentPath = location.pathname
 
           return (
-            <Link
-              key={key}
-              to={path}
-              style={{ color: 'inherit', textDecoration: 'inherit' }}
+            <Category
+              key={id}
+              onClick={() => history.push(path)}
+              selected={currentPath === path}
             >
-              <Category selected={currentPath === path}>{name}</Category>
-            </Link>
+              {name}
+            </Category>
           )
         })}
       </Categories>

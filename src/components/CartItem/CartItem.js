@@ -24,9 +24,24 @@ export const CartItemDescription = styled.p`
 export const CartItemPrice = styled.p`
   font-family: Helvetica, sans-serif;
   font-size: 28px;
+  text-align: right;
 `
 
 export const CartItemEspecifications = styled.div`
   float: right;
   padding-left: 8px;
+`
+export const DeleteViewContainer = styled.div`
+  height: 45px;
+  display: flex;
+  flex-direction: flex;
+  align-items: flex-end;
+`
+export const DeleteButton = styled.p`
+  font-size: 18px;
+  margin: 5px 8px;
+  text-decoration: underline;
+  text-align: right;
+  color: grey;
+  cursor: pointer;
 `

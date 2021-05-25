@@ -25,7 +25,7 @@ cursor: pointer;
 
 
 export const Dropbtn = styled.div`
-  width:60px;
+  width:90px;
   height: 20px;
   display: inline-block;
   text-align: center;
@@ -38,7 +38,7 @@ export const DropDownContent = styled.div`
   display: none;
   position: absolute;
   background-color: #f9f9f9;
-  min-width: 160px;
+  min-width: 120px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 `;

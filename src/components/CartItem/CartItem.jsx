@@ -1,25 +1,35 @@
 import React from 'react'
+import { useDispatch } from 'react-redux'
 import {
   CartItemContainer,
   CartItemImg,
   CartItemPrice,
   CartItemDescription,
-  CartItemEspecifications
+  CartItemEspecifications,
+  DeleteViewContainer,
+  DeleteButton
 } from './CartItem'
 
-const CartItem = () => {
+import { deleteCartItem } from '../../redux/Actions/index'
+
+const CartItem = ({ data }) => {
+  const { name, id, images, price, size } = data
+
+  const dispatch = useDispatch()
+
   return (
     <CartItemContainer>
       <div>
-        <CartItemImg src="https://http2.mlstatic.com/D_NQ_NP_729302-MLA42436554038_072020-W.webp" />
+        <CartItemImg src={images[0]} />
         <CartItemEspecifications>
-          <h3> Nike Air Max Bruin Vapor </h3>
-          <CartItemDescription> Gender: Unisex</CartItemDescription>
+          <h3> {name} </h3>
+          <CartItemDescription> Size: {size}</CartItemDescription>
           <CartItemDescription> Color: Black</CartItemDescription>
         </CartItemEspecifications>
       </div>
       <div>
-        <CartItemPrice>$800.00</CartItemPrice>
+        <CartItemPrice>${price}</CartItemPrice>
+          <DeleteButton onClick={() => dispatch(deleteCartItem(data))}>Delete</DeleteButton>
       </div>
     </CartItemContainer>
   )

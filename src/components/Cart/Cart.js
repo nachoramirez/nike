@@ -17,3 +17,7 @@ export const CartButton = styled(Button)`
     box-shadow: inset 250px 0 0 0 #4d2b8c;
   }
 `
+export const CartEmpty = styled.p`
+  margin-left: 30px; 
+  font-size: 30px;
+`

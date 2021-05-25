@@ -4,7 +4,7 @@ import { Container } from '../../containers/Containers.js'
 export const ShoeCardContainer = styled(Container)`
   background-color: white;
   width: 18%;
-  height: 320px;
+  height: 350px;
   flex-direction: column;
   border: #C9C9C9 solid 1px;
   border-radius: 10px;

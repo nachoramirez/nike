@@ -3,7 +3,7 @@ import { ProductPageContainer } from './ProductPage.js'
 import { useHistory } from 'react-router-dom'
 
 import { useSelector, useDispatch } from 'react-redux'
-import { CallProduct } from '../../redux/Actions/index'
+import { callProduct } from '../../redux/Actions/index'
 import Loading from '../../components/Loading/Loading.jsx'
 
 import ProductCarrousel from '../../components/ProductCarrousel/ProductCarrousel.jsx'
@@ -11,21 +11,24 @@ import ProductInfo from '../../components/ProductInfo/ProductInfo.jsx'
 
 const ProductPage = () => {
   const history = useHistory()
-  const path = history.location.pathname.substring(1)
+  const productId = history.location.pathname.substring(1)
 
   const dispatch = useDispatch()
   const data = useSelector((store) => store.initialReducer.currentProduct)
+  const isLoading = useSelector(
+    (store) => store.initialReducer.currentProductIsLoading
+  )
 
   useEffect(() => {
-    dispatch(CallProduct(path))
-  }, [path])
+    dispatch(callProduct(productId))
+  }, [productId])
 
-  console.log(data)
-
-  return ( data === undefined  ? <Loading /> : 
+  return isLoading ? (
+    <Loading />
+  ) : (
     <ProductPageContainer>
-      <ProductCarrousel data={data.images}/>
-      <ProductInfo data={data}/>
+      <ProductCarrousel data={data.images} />
+      <ProductInfo data={data} />
     </ProductPageContainer>
   )
 }

@@ -4,7 +4,7 @@
       "id": "000",
       "name": "Nike Revolution 5",
       "sizes": [34, 35, 36, 37, 38, 39],
-      "price": "$9450",
+      "price": "9450",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3597f653/products/NI_BQ3204-400/NI_BQ3204-400-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwc952ddc6/products/NI_BQ3204-400/NI_BQ3204-400-2.JPG",
@@ -17,7 +17,7 @@
       "id": "001",
       "name": " Nike Renew Run",
       "sizes": [34, 35, 36, 37, 38, 39],
-      "price": "$13.499",
+      "price": "13499",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw2aa3009e/products/NI_CK6357-002/NI_CK6357-002-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw2aa3009e/products/NI_CK6357-002/NI_CK6357-002-2.JPG",
@@ -30,7 +30,7 @@
       "id": "002",
       "name": " Nike Air Max Excee",
       "sizes": [34, 35, 36, 37, 38, 39],
-      "price": "$14499",
+      "price": "14499",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw8595eb41/products/NI_CD4165-001/NI_CD4165-001-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw8595eb41/products/NI_CD4165-001/NI_CD4165-001-2.JPG",
@@ -43,7 +43,7 @@
       "id": "004",
       "name": " Nike Air Max Command Leather",
       "sizes": [1, 2, 3, 4, 5],
-      "price": "$17999",
+      "price": "17999",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw736feb34/products/NI_749760-001/NI_749760-001-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw736feb34/products/NI_749760-001/NI_749760-001-2.JPG",
@@ -56,7 +56,7 @@
       "id": "005",
       "name": " Nike Downshifter 10",
       "sizes": [34, 35, 36, 37, 38, 39],
-      "price": "$10499",
+      "price": "10499",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwfbb22166/products/NI_CI9981-004/NI_CI9981-004-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwfbb22166/products/NI_CI9981-004/NI_CI9981-004-2.JPG",
@@ -69,7 +69,7 @@
       "id": "006",
       "name": " Nike Downshifter 10",
       "sizes": [34, 35, 36, 37, 38, 39],
-      "price": "$10499",
+      "price": "10499",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw60d5f268/products/NI_CI9984-200/NI_CI9984-200-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw60d5f268/products/NI_CI9984-200/NI_CI9984-200-2.JPG",
@@ -82,7 +82,7 @@
       "id": "007",
       "name": " Nike Pegasus Trail 2",
       "sizes": [34, 35, 36, 37, 38, 39],
-      "price": "$19999",
+      "price": "19999",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwcbf9b35f/products/NI_CK4305-700/NI_CK4305-700-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3597f653/products/NI_BQ3204-400/NI_BQ3204-400-2.JPG",
@@ -95,7 +95,7 @@
       "id": "008",
       "name": "Nike Joyride Run Flyknit",
       "sizes": [34, 35, 36, 37, 38, 39],
-      "price": "$26999",
+      "price": "26999",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe2f8f32d/products/NI_AQ2730-001/NI_AQ2730-001-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe2f8f32d/products/NI_AQ2730-001/NI_AQ2730-001-2.JPG",
@@ -108,7 +108,7 @@
       "id": "009",
       "name": " Nike React Miler",
       "sizes": [34, 35, 36, 37, 38, 39],
-      "price": "$19999",
+      "price": "19999",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw2f04918b/products/NI_CW1777-003/NI_CW1777-003-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw2f04918b/products/NI_CW1777-003/NI_CW1777-003-2.JPG",
@@ -121,7 +121,7 @@
       "id": "010",
       "name": "Nike Todos RN",
       "sizes": [34, 35, 36, 37, 38, 39, 40],
-      "price": "$9499",
+      "price": "9499",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9e17ce80/products/NI_BQ3201-003/NI_BQ3201-003-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9e17ce80/products/NI_BQ3201-003/NI_BQ3201-003-2.JPG",
@@ -134,7 +134,7 @@
       "id": "011",
       "name": "Nike Renew Run Se",
       "sizes": [34, 35, 36, 37, 38, 39, 40],
-      "price": "$13999",
+      "price": "13999",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7ebdd2f0/products/NI_CT3509-001/NI_CT3509-001-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7ebdd2f0/products/NI_CT3509-001/NI_CT3509-001-2.JPG",
@@ -147,7 +147,7 @@
       "id": "012",
       "name": "Nike Zoom Gravity",
       "sizes": [34, 35, 36, 37, 38, 39, 40],
-      "price": "$8299",
+      "price": "8299",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwf7c05f8c/products/NI_BQ3203-100/NI_BQ3203-100-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwf7c05f8c/products/NI_BQ3203-100/NI_BQ3203-100-2.JPG",
@@ -160,7 +160,7 @@
       "id": "013",
       "name": "Nike Downshifter 9",
       "sizes": [34, 35, 36, 37, 38, 39, 40],
-      "price": "$6599",
+      "price": "6599",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw518a9927/products/NI_AR4135-401/NI_AR4135-401-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw518a9927/products/NI_AR4135-401/NI_AR4135-401-2.JPG"
@@ -170,7 +170,7 @@
       "id": "014",
       "name": "Nike Renew Run",
       "sizes": [34, 35, 36, 37, 38, 39, 40],
-      "price": "$13499",
+      "price": "13499",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-2.JPG",
@@ -183,7 +183,7 @@
       "id": "015",
       "name": "Nike Downshifter 10",
       "sizes": [34, 35, 36, 37, 38, 39, 40],
-      "price": "$10499",
+      "price": "10499",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-2.JPG",
@@ -196,7 +196,7 @@
       "id": "016",
       "name": "Nike Explore Strada",
       "sizes": [34, 35, 36, 37, 38, 39, 40],
-      "price": "$6999",
+      "price": "6999",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw0d02e423/products/NI_CD7093-009/NI_CD7093-009-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw0d02e423/products/NI_CD7093-009/NI_CD7093-009-2.JPG",
@@ -206,23 +206,23 @@
       ]
     },
     {
-      "id": "016",
-      "name": "Nike Explore Strada",
+      "id": "014",
+      "name": "Nike Renew Run",
       "sizes": [34, 35, 36, 37, 38, 39, 40],
-      "price": "$6999",
+      "price": "13499",
       "images": [
-        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw0d02e423/products/NI_CD7093-009/NI_CD7093-009-1.JPG",
-        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw0d02e423/products/NI_CD7093-009/NI_CD7093-009-2.JPG",
-        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw0d02e423/products/NI_CD7093-009/NI_CD7093-009-3.JPG",
-        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw0d02e423/products/NI_CD7093-009/NI_CD7093-009-4.JPG",
-        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw0d02e423/products/NI_CD7093-009/NI_CD7093-009-5.JPG"
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-5.JPG"
       ]
     },
     {
       "id": "017",
       "name": "Nike Revolution 5 Special Edition",
       "sizes": [34, 35, 36, 37, 38, 39, 40],
-      "price": "$10499",
+      "price": "10499",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw07a09ef1/products/NI_CD0302-001/NI_CD0302-001-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw07a09ef1/products/NI_CD0302-001/NI_CD0302-001-2.JPG",
@@ -235,7 +235,7 @@
       "id": "018",
       "name": "Nike Quest 2",
       "sizes": [34, 35, 36, 37, 38, 39, 40],
-      "price": "$11999",
+      "price": "11999",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw66eef6da/products/NI_CI3803-006/NI_CI3803-006-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw66eef6da/products/NI_CI3803-006/NI_CI3803-006-2.JPG",
@@ -248,7 +248,7 @@
       "id": "019",
       "name": "Nike Renew Run",
       "sizes": [34, 35, 36, 37, 38, 39, 40],
-      "price": "$10999",
+      "price": "10999",
       "images": [
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwd0a286c2/products/NI_CK6357-401/NI_CK6357-401-1.JPG",
         "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwd0a286c2/products/NI_CK6357-401/NI_CK6357-401-2.JPG",
@@ -258,9 +258,887 @@
       ]
     }
   ],
-  "training": [],
-  "futbol": [],
-  "sportswear": [],
-  "jordan": [],
+  "training": [
+    {
+      "id": "101",
+      "name": "Nike Air Max Bella Tr 3",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "12499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7f19cd2e/products/NI_CJ0842-005/NI_CJ0842-005-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7f19cd2e/products/NI_CJ0842-005/NI_CJ0842-005-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7f19cd2e/products/NI_CJ0842-005/NI_CJ0842-005-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7f19cd2e/products/NI_CJ0842-005/NI_CJ0842-005-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7f19cd2e/products/NI_CJ0842-005/NI_CJ0842-005-5.JPG"
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Nike Air Max Bella Tr 2",
+      "sizes": [34, 35, 36, 37, 38, 39],
+      "price": "12499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw04b8c9ee/products/NI_AQ7492-200/NI_AQ7492-200-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw04b8c9ee/products/NI_AQ7492-200/NI_AQ7492-200-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw04b8c9ee/products/NI_AQ7492-200/NI_AQ7492-200-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw04b8c9ee/products/NI_AQ7492-200/NI_AQ7492-200-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw04b8c9ee/products/NI_AQ7492-200/NI_AQ7492-200-5.JPG"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Nike Flex Control 4",
+      "sizes": [36, 37, 38, 39, 40, 41, 42],
+      "price": "10999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ffa3c83/products/NI_CD0197-002/NI_CD0197-002-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ffa3c83/products/NI_CD0197-002/NI_CD0197-002-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ffa3c83/products/NI_CD0197-002/NI_CD0197-002-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ffa3c83/products/NI_CD0197-002/NI_CD0197-002-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ffa3c83/products/NI_CD0197-002/NI_CD0197-002-5.JPG"
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Nike Air Max Bella Tr 2",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": "12499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw574b756c/products/NI_AQ7492-010/NI_AQ7492-010-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw574b756c/products/NI_AQ7492-010/NI_AQ7492-010-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw574b756c/products/NI_AQ7492-010/NI_AQ7492-010-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw574b756c/products/NI_AQ7492-010/NI_AQ7492-010-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw574b756c/products/NI_AQ7492-010/NI_AQ7492-010-5.JPG"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "Nike In-Season Tr 9",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": "11999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw591a6291/products/NI_AR4543-200/NI_AR4543-200-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw591a6291/products/NI_AR4543-200/NI_AR4543-200-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw591a6291/products/NI_AR4543-200/NI_AR4543-200-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw591a6291/products/NI_AR4543-200/NI_AR4543-200-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw591a6291/products/NI_AR4543-200/NI_AR4543-200-5.JPG"
+      ]
+    },
+    {
+      "id": "106",
+      "name": "Nike Superrep Go",
+      "sizes": [38, 39, 40, 41],
+      "price": "15999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9964fd76/products/NI_CJ0773-010/NI_CJ0773-010-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9964fd76/products/NI_CJ0773-010/NI_CJ0773-010-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9964fd76/products/NI_CJ0773-010/NI_CJ0773-010-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9964fd76/products/NI_CJ0773-010/NI_CJ0773-010-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9964fd76/products/NI_CJ0773-010/NI_CJ0773-010-5.JPG"
+      ]
+    },
+    {
+      "id": "107",
+      "name": "Nike Varsity Compete Tr 3",
+      "sizes": [38, 39, 40, 41],
+      "price": "10499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw577115e2/products/NI_CJ0813-004/NI_CJ0813-004-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw577115e2/products/NI_CJ0813-004/NI_CJ0813-004-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw577115e2/products/NI_CJ0813-004/NI_CJ0813-004-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw577115e2/products/NI_CJ0813-004/NI_CJ0813-004-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw577115e2/products/NI_CJ0813-004/NI_CJ0813-004-5.JPG"
+      ]
+    },
+    {
+      "id": "108",
+      "name": "Nike Flex Trainer 9",
+      "sizes": [38, 39, 40, 41],
+      "price": "9349",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb0cc2fd1/products/NI_AQ7491-004/NI_AQ7491-004-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb0cc2fd1/products/NI_AQ7491-004/NI_AQ7491-004-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb0cc2fd1/products/NI_AQ7491-004/NI_AQ7491-004-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb0cc2fd1/products/NI_AQ7491-004/NI_AQ7491-004-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb0cc2fd1/products/NI_AQ7491-004/NI_AQ7491-004-5.JPG"
+      ]
+    },
+    {
+      "id": "109",
+      "name": "Nike Flex Trainer 9",
+      "sizes": [38, 39, 40, 41],
+      "price": "9349",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb0cc2fd1/products/NI_AQ7491-004/NI_AQ7491-004-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb0cc2fd1/products/NI_AQ7491-004/NI_AQ7491-004-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb0cc2fd1/products/NI_AQ7491-004/NI_AQ7491-004-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb0cc2fd1/products/NI_AQ7491-004/NI_AQ7491-004-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb0cc2fd1/products/NI_AQ7491-004/NI_AQ7491-004-5.JPG"
+      ]
+    },
+    {
+      "id": "109",
+      "name": "Nike Air Max Alpha Trainer",
+      "sizes": [38, 39, 40, 41],
+      "price": "13499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw704aae85/products/NI_AA7060-005/NI_AA7060-005-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw704aae85/products/NI_AA7060-005/NI_AA7060-005-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw704aae85/products/NI_AA7060-005/NI_AA7060-005-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw704aae85/products/NI_AA7060-005/NI_AA7060-005-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw704aae85/products/NI_AA7060-005/NI_AA7060-005-5.JPG"
+      ]
+    },
+    {
+      "id": "110",
+      "name": "Nike Flex Essential",
+      "sizes": [38, 39, 40, 41],
+      "price": "9499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1c6af3b2/products/NI_924344-400/NI_924344-400-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1c6af3b2/products/NI_924344-400/NI_924344-400-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1c6af3b2/products/NI_924344-400/NI_924344-400-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1c6af3b2/products/NI_924344-400/NI_924344-400-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1c6af3b2/products/NI_924344-400/NI_924344-400-5.JPG"
+      ]
+    },
+    {
+      "id": "111",
+      "name": "Nike Flex Essential",
+      "sizes": [38, 39, 40, 41],
+      "price": "9499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1c6af3b2/products/NI_924344-400/NI_924344-400-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1c6af3b2/products/NI_924344-400/NI_924344-400-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1c6af3b2/products/NI_924344-400/NI_924344-400-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1c6af3b2/products/NI_924344-400/NI_924344-400-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1c6af3b2/products/NI_924344-400/NI_924344-400-5.JPG"
+      ]
+    },
+    {
+      "id": "112",
+      "name": "Nike Flex Essential",
+      "sizes": [38, 39, 40, 41],
+      "price": "9499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwcf184b2d/products/NI_924344-603/NI_924344-603-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwcf184b2d/products/NI_924344-603/NI_924344-603-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwcf184b2d/products/NI_924344-603/NI_924344-603-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwcf184b2d/products/NI_924344-603/NI_924344-603-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwcf184b2d/products/NI_924344-603/NI_924344-603-5.JPG"
+      ]
+    },
+    {
+      "id": "113",
+      "name": "Nike Air Max Alpha Trainer 2",
+      "sizes": [38, 39, 40, 41],
+      "price": "13499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwc318398b/products/NI_AT1237-010/NI_AT1237-010-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwc318398b/products/NI_AT1237-010/NI_AT1237-010-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwc318398b/products/NI_AT1237-010/NI_AT1237-010-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwc318398b/products/NI_AT1237-010/NI_AT1237-010-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwc318398b/products/NI_AT1237-010/NI_AT1237-010-5.JPG"
+      ]
+    }
+  ],
+  "futbol": [
+    {
+      "id": "200",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw18b84ac1/products/NI_BQ5427-401/NI_BQ5427-401-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw18b84ac1/products/NI_BQ5427-401/NI_BQ5427-401-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw18b84ac1/products/NI_BQ5427-401/NI_BQ5427-401-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw18b84ac1/products/NI_BQ5427-401/NI_BQ5427-401-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw18b84ac1/products/NI_BQ5427-401/NI_BQ5427-401-5.JPG"
+      ],
+      "name": "Nike Superfly 7 Academy MG",
+      "price": "14999",
+      "sizes": [36, 37, 38, 39, 40, 41]
+    },
+    {
+      "id": "201",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw01e8223b/products/NI_AH7370-701/NI_AH7370-701-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw01e8223b/products/NI_AH7370-701/NI_AH7370-701-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw01e8223b/products/NI_AH7370-701/NI_AH7370-701-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw01e8223b/products/NI_AH7370-701/NI_AH7370-701-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw01e8223b/products/NI_AH7370-701/NI_AH7370-701-5.JPG"
+      ],
+      "name": "Nike Superfly 6 Academy Tf",
+      "price": "11999",
+      "sizes": [36, 37, 38, 39, 40]
+    },
+    {
+      "id": "202",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4a2d53ea/products/NI_AT7995-104/NI_AT7995-104-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4a2d53ea/products/NI_AT7995-104/NI_AT7995-104-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4a2d53ea/products/NI_AT7995-104/NI_AT7995-104-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4a2d53ea/products/NI_AT7995-104/NI_AT7995-104-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4a2d53ea/products/NI_AT7995-104/NI_AT7995-104-5.JPG"
+      ],
+      "name": "Nike Mercurial Vapor 13",
+      "price": "10999",
+      "sizes": [34, 35, 36, 37, 38, 39, 40]
+    },
+    {
+      "id": "204",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw60538cf5/products/NI_AT8143-001/NI_AT8143-001-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw60538cf5/products/NI_AT8143-001/NI_AT8143-001-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw60538cf5/products/NI_AT8143-001/NI_AT8143-001-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw60538cf5/products/NI_AT8143-001/NI_AT8143-001-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw60538cf5/products/NI_AT8143-001/NI_AT8143-001-5.JPG"
+      ],
+      "name": "Nike Jr Superfly 7",
+      "price": "8499",
+      "sizes": [33, 34, 35, 36, 37]
+    },
+    {
+      "id": "205",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw30d49ad6/products/NI_CD4162-606/NI_CD4162-606-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw30d49ad6/products/NI_CD4162-606/NI_CD4162-606-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw30d49ad6/products/NI_CD4162-606/NI_CD4162-606-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw30d49ad6/products/NI_CD4162-606/NI_CD4162-606-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw30d49ad6/products/NI_CD4162-606/NI_CD4162-606-5.JPG"
+      ],
+      "name": "Nike Phantom Vision 2 Pro",
+      "price": "15999",
+      "sizes": [36, 37, 38, 39, 40, 41, 42]
+    },
+    {
+      "id": "206",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7944de74/products/NI_831945-801/NI_831945-801-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7944de74/products/NI_831945-801/NI_831945-801-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7944de74/products/NI_831945-801/NI_831945-801-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7944de74/products/NI_831945-801/NI_831945-801-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7944de74/products/NI_831945-801/NI_831945-801-5.JPG"
+      ],
+      "name": "Botines Nike Mercurial Victory XI",
+      "price": "3500",
+      "sizes": [31, 32, 33]
+    },
+    {
+      "id": "207",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7892cf72/products/NI_AT7975-414/NI_AT7975-414-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7892cf72/products/NI_AT7975-414/NI_AT7975-414-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7892cf72/products/NI_AT7975-414/NI_AT7975-414-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7892cf72/products/NI_AT7975-414/NI_AT7975-414-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7892cf72/products/NI_AT7975-414/NI_AT7975-414-5.JPG"
+      ],
+      "name": "Nike Superfly 7 Academy",
+      "price": "7999",
+      "sizes": [34, 35, 36, 37, 38, 39, 40]
+    },
+    {
+      "id": "208",
+      "name": "Nike Tiempo Legend 8 Club",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "6799",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7372ca10/products/NI_AT5881-010/NI_AT5881-010-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7372ca10/products/NI_AT5881-010/NI_AT5881-010-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7372ca10/products/NI_AT5881-010/NI_AT5881-010-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7372ca10/products/NI_AT5881-010/NI_AT5881-010-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7372ca10/products/NI_AT5881-010/NI_AT5881-010-5.JPG"
+      ]
+    },
+    {
+      "id": "209",
+      "name": "Nike Mercurial Superfly 7",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "10799",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb3ad2b51/products/NI_AT8143-906/NI_AT8143-906-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb3ad2b51/products/NI_AT8143-906/NI_AT8143-906-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb3ad2b51/products/NI_AT8143-906/NI_AT8143-906-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb3ad2b51/products/NI_AT8143-906/NI_AT8143-906-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb3ad2b51/products/NI_AT8143-906/NI_AT8143-906-5.JPG"
+      ]
+    },
+    {
+      "id": "210",
+      "name": "Nike Phantom Venom",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "9999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe263ee28/products/NI_AO0570-717/NI_AO0570-717-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe263ee28/products/NI_AO0570-717/NI_AO0570-717-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe263ee28/products/NI_AO0570-717/NI_AO0570-717-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe263ee28/products/NI_AO0570-717/NI_AO0570-717-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe263ee28/products/NI_AO0570-717/NI_AO0570-717-5.JPG"
+      ]
+    },
+    {
+      "id": "211",
+      "name": "Nike Mercurial Superfly 7",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "13799",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwdf8d1cc9/products/NI_AT7978-906/NI_AT7978-906-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwdf8d1cc9/products/NI_AT7978-906/NI_AT7978-906-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwdf8d1cc9/products/NI_AT7978-906/NI_AT7978-906-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwdf8d1cc9/products/NI_AT7978-906/NI_AT7978-906-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwdf8d1cc9/products/NI_AT7978-906/NI_AT7978-906-5.JPG"
+      ]
+    },
+    {
+      "id": "212",
+      "name": "Nike Phantom Venom",
+      "sizes": [32, 33, 34],
+      "price": "5999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwa683bde0/products/NI_AO0362-600/NI_AO0362-600-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwa683bde0/products/NI_AO0362-600/NI_AO0362-600-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwa683bde0/products/NI_AO0362-600/NI_AO0362-600-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwa683bde0/products/NI_AO0362-600/NI_AO0362-600-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwa683bde0/products/NI_AO0362-600/NI_AO0362-600-5.JPG"
+      ]
+    },
+    {
+      "id": "213",
+      "name": "Nike Tiempo Legend VI",
+      "sizes": [33, 34, 35],
+      "price": "2499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwd5a575b1/products/NI_819186-103/NI_819186-103-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwd5a575b1/products/NI_819186-103/NI_819186-103-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwd5a575b1/products/NI_819186-103/NI_819186-103-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwd5a575b1/products/NI_819186-103/NI_819186-103-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwd5a575b1/products/NI_819186-103/NI_819186-103-5.JPG"
+      ]
+    },
+    {
+      "id": "214",
+      "name": "Nike Jr Superfly 7 Elite",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "17999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7f3cb9e9/products/NI_AT8034-414/NI_AT8034-414-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7f3cb9e9/products/NI_AT8034-414/NI_AT8034-414-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7f3cb9e9/products/NI_AT8034-414/NI_AT8034-414-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7f3cb9e9/products/NI_AT8034-414/NI_AT8034-414-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7f3cb9e9/products/NI_AT8034-414/NI_AT8034-414-5.JPG"
+      ]
+    },
+    {
+      "id": "215",
+      "name": "Nike Jr Superfly 7",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "11499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbfb06c3c/products/NI_BQ5529-401/NI_BQ5529-401-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbfb06c3c/products/NI_BQ5529-401/NI_BQ5529-401-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbfb06c3c/products/NI_BQ5529-401/NI_BQ5529-401-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbfb06c3c/products/NI_BQ5529-401/NI_BQ5529-401-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbfb06c3c/products/NI_BQ5529-401/NI_BQ5529-401-5.JPG"
+      ]
+    },
+    {
+      "id": "217",
+      "name": "Nike Superfly 7",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "14999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4b544f71/products/NI_BQ5427-703/NI_BQ5427-703-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4b544f71/products/NI_BQ5427-703/NI_BQ5427-703-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4b544f71/products/NI_BQ5427-703/NI_BQ5427-703-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4b544f71/products/NI_BQ5427-703/NI_BQ5427-703-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4b544f71/products/NI_BQ5427-703/NI_BQ5427-703-5.JPG"
+      ]
+    },
+    {
+      "id": "218",
+      "name": "Nike Mercurial Vapor 13",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "14999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwea3cdd29/products/NI_AQ4176-906/NI_AQ4176-906-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwea3cdd29/products/NI_AQ4176-906/NI_AQ4176-906-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwea3cdd29/products/NI_AQ4176-906/NI_AQ4176-906-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwea3cdd29/products/NI_AQ4176-906/NI_AQ4176-906-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwea3cdd29/products/NI_AQ4176-906/NI_AQ4176-906-5.JPG"
+      ]
+    },
+    {
+      "id": "219",
+      "name": "Nike Phantom Vision",
+      "sizes": [36, 37, 38, 39, 40],
+      "price": "29999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3336064a/products/NI_AO3262-600/NI_AO3262-600-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3336064a/products/NI_AO3262-600/NI_AO3262-600-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3336064a/products/NI_AO3262-600/NI_AO3262-600-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3336064a/products/NI_AO3262-600/NI_AO3262-600-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3336064a/products/NI_AO3262-600/NI_AO3262-600-5.JPG"
+      ]
+    },
+    {
+      "id": "220",
+      "name": "Nike Phantom Vision Pro",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "7999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb8886fc8/products/NI_AO3277-400/NI_AO3277-400-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb8886fc8/products/NI_AO3277-400/NI_AO3277-400-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb8886fc8/products/NI_AO3277-400/NI_AO3277-400-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb8886fc8/products/NI_AO3277-400/NI_AO3277-400-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwb8886fc8/products/NI_AO3277-400/NI_AO3277-400-5.JPG"
+      ]
+    }
+  ],
+  "sportswear": [
+    {
+      "id": "300",
+      "name": "Nike Air Max Command",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "12799",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw600f100f/products/NI_397690-027/NI_397690-027-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw600f100f/products/NI_397690-027/NI_397690-027-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw600f100f/products/NI_397690-027/NI_397690-027-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw600f100f/products/NI_397690-027/NI_397690-027-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw600f100f/products/NI_397690-027/NI_397690-027-5.JPG"
+      ]
+    },
+    {
+      "id": "301",
+      "name": "Nike Air Max Excee",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "11599",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw02406892/products/NI_CD5432-100/NI_CD5432-100-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw02406892/products/NI_CD5432-100/NI_CD5432-100-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw02406892/products/NI_CD5432-100/NI_CD5432-100-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw02406892/products/NI_CD5432-100/NI_CD5432-100-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw02406892/products/NI_CD5432-100/NI_CD5432-100-5.JPG"
+      ]
+    },
+    {
+      "id": "302",
+      "name": "Nike Pico 5",
+      "sizes": [31, 32, 3334, 35],
+      "price": "4999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw011123a9/products/NI_AR4161-401/NI_AR4161-401-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw011123a9/products/NI_AR4161-401/NI_AR4161-401-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw011123a9/products/NI_AR4161-401/NI_AR4161-401-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw011123a9/products/NI_AR4161-401/NI_AR4161-401-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw011123a9/products/NI_AR4161-401/NI_AR4161-401-5.JPG"
+      ]
+    },
+    {
+      "id": "303",
+      "name": "Nike Air Max Excee",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "14499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw8595eb41/products/NI_CD4165-001/NI_CD4165-001-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw8595eb41/products/NI_CD4165-001/NI_CD4165-001-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw8595eb41/products/NI_CD4165-001/NI_CD4165-001-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw8595eb41/products/NI_CD4165-001/NI_CD4165-001-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw8595eb41/products/NI_CD4165-001/NI_CD4165-001-5.JPG"
+      ]
+    },
+    {
+      "id": "304",
+      "name": "Nike Md Runner 2 Suede",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "12499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1d1bd479/products/NI_AQ9211-300/NI_AQ9211-300-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1d1bd479/products/NI_AQ9211-300/NI_AQ9211-300-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1d1bd479/products/NI_AQ9211-300/NI_AQ9211-300-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1d1bd479/products/NI_AQ9211-300/NI_AQ9211-300-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw1d1bd479/products/NI_AQ9211-300/NI_AQ9211-300-5.JPG"
+      ]
+    },
+    {
+      "id": "305",
+      "name": "Nike Renew Run",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "9999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9877eca3/products/NI_CK6360-005/NI_CK6360-005-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9877eca3/products/NI_CK6360-005/NI_CK6360-005-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9877eca3/products/NI_CK6360-005/NI_CK6360-005-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9877eca3/products/NI_CK6360-005/NI_CK6360-005-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9877eca3/products/NI_CK6360-005/NI_CK6360-005-5.JPG"
+      ]
+    },
+    {
+      "id": "306",
+      "name": "Nike Todos RN",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "9499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw362028fa/products/NI_BQ3198-102/NI_BQ3198-102-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw362028fa/products/NI_BQ3198-102/NI_BQ3198-102-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw362028fa/products/NI_BQ3198-102/NI_BQ3198-102-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw362028fa/products/NI_BQ3198-102/NI_BQ3198-102-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw362028fa/products/NI_BQ3198-102/NI_BQ3198-102-5.JPG"
+      ]
+    },
+    {
+      "id": "307",
+      "name": "Nike In-Season Tr 9",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "11999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe7f1e50d/products/NI_AR4543-009/NI_AR4543-009-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe7f1e50d/products/NI_AR4543-009/NI_AR4543-009-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe7f1e50d/products/NI_AR4543-009/NI_AR4543-009-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe7f1e50d/products/NI_AR4543-009/NI_AR4543-009-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe7f1e50d/products/NI_AR4543-009/NI_AR4543-009-5.JPG"
+      ]
+    },
+    {
+      "id": "308",
+      "name": "Nike Court Vision Low",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "11499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw953e3f65/products/NI_CI7599-600/NI_CI7599-600-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw953e3f65/products/NI_CI7599-600/NI_CI7599-600-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw953e3f65/products/NI_CI7599-600/NI_CI7599-600-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw953e3f65/products/NI_CI7599-600/NI_CI7599-600-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw953e3f65/products/NI_CI7599-600/NI_CI7599-600-5.JPG"
+      ]
+    },
+    {
+      "id": "309",
+      "name": "Nike Revolution 5 Special Edition",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "10499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw07a09ef1/products/NI_CD0302-001/NI_CD0302-001-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw07a09ef1/products/NI_CD0302-001/NI_CD0302-001-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw07a09ef1/products/NI_CD0302-001/NI_CD0302-001-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw07a09ef1/products/NI_CD0302-001/NI_CD0302-001-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw07a09ef1/products/NI_CD0302-001/NI_CD0302-001-5.JPG"
+      ]
+    },
+    {
+      "id": "310",
+      "name": "Nike Revolution 5",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "9499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe9392989/products/NI_BQ3204-011/NI_BQ3204-011-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe9392989/products/NI_BQ3204-011/NI_BQ3204-011-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe9392989/products/NI_BQ3204-011/NI_BQ3204-011-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe9392989/products/NI_BQ3204-011/NI_BQ3204-011-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe9392989/products/NI_BQ3204-011/NI_BQ3204-011-5.JPG"
+      ]
+    },
+    {
+      "id": "311",
+      "name": "Nike Air Max Oketo",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "11999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbb56f27a/products/NI_AQ2235-015/NI_AQ2235-015-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbb56f27a/products/NI_AQ2235-015/NI_AQ2235-015-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbb56f27a/products/NI_AQ2235-015/NI_AQ2235-015-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbb56f27a/products/NI_AQ2235-015/NI_AQ2235-015-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbb56f27a/products/NI_AQ2235-015/NI_AQ2235-015-5.JPG"
+      ]
+    },
+    {
+      "id": "312",
+      "name": "Nike Downshifter 10",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "10499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-5.JPG"
+      ]
+    },
+    {
+      "id": "313",
+      "name": "Nike Flex Control 4",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "10999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ffa3c83/products/NI_CD0197-002/NI_CD0197-002-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ffa3c83/products/NI_CD0197-002/NI_CD0197-002-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ffa3c83/products/NI_CD0197-002/NI_CD0197-002-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ffa3c83/products/NI_CD0197-002/NI_CD0197-002-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ffa3c83/products/NI_CD0197-002/NI_CD0197-002-5.JPG"
+      ]
+    },
+    {
+      "id": "314",
+      "name": "Nike Renew Run",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "13499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-5.JPG"
+      ]
+    },
+    {
+      "id": "315",
+      "name": "Nike Renew Run Special Edition",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "13999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6e62664c/products/NI_CT3515-001/NI_CT3515-001-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6e62664c/products/NI_CT3515-001/NI_CT3515-001-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6e62664c/products/NI_CT3515-001/NI_CT3515-001-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6e62664c/products/NI_CT3515-001/NI_CT3515-001-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6e62664c/products/NI_CT3515-001/NI_CT3515-001-5.JPG"
+      ]
+    },
+    {
+      "id": "316",
+      "name": "Nike Air Max Excee",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "14999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw91dc78d6/products/NI_CD5432-103/NI_CD5432-103-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw91dc78d6/products/NI_CD5432-103/NI_CD5432-103-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw91dc78d6/products/NI_CD5432-103/NI_CD5432-103-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw91dc78d6/products/NI_CD5432-103/NI_CD5432-103-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw91dc78d6/products/NI_CD5432-103/NI_CD5432-103-5.JPG"
+      ]
+    },
+    {
+      "id": "317",
+      "name": "Nike Air Max Fusion",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "11999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwca048b6a/products/NI_CJ1671-101/NI_CJ1671-101-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwca048b6a/products/NI_CJ1671-101/NI_CJ1671-101-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwca048b6a/products/NI_CJ1671-101/NI_CJ1671-101-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwca048b6a/products/NI_CJ1671-101/NI_CJ1671-101-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwca048b6a/products/NI_CJ1671-101/NI_CJ1671-101-5.JPG"
+      ]
+    },
+    {
+      "id": "318",
+      "name": "Nike Air Max Command",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "17999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw25de09d8/products/NI_629993-032/NI_629993-032-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw25de09d8/products/NI_629993-032/NI_629993-032-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw25de09d8/products/NI_629993-032/NI_629993-032-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw25de09d8/products/NI_629993-032/NI_629993-032-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw25de09d8/products/NI_629993-032/NI_629993-032-5.JPG"
+      ]
+    },
+    {
+      "id": "319",
+      "name": "Nike Air Max Command",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "17499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw372bc87d/products/NI_629993-410/NI_629993-410-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw372bc87d/products/NI_629993-410/NI_629993-410-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw372bc87d/products/NI_629993-410/NI_629993-410-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw372bc87d/products/NI_629993-410/NI_629993-410-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw372bc87d/products/NI_629993-410/NI_629993-410-5.JPG"
+      ]
+    }
+  ],
+  "basquet": [
+    {
+      "id": "400",
+      "name": "Nike Court Borough Low 2",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "7499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ea748f9/products/NI_CJ2238-100/NI_CJ2238-100-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ea748f9/products/NI_CJ2238-100/NI_CJ2238-100-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ea748f9/products/NI_CJ2238-100/NI_CJ2238-100-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ea748f9/products/NI_CJ2238-100/NI_CJ2238-100-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6ea748f9/products/NI_CJ2238-100/NI_CJ2238-100-5.JPG"
+      ]
+    },
+    {
+      "id": "401",
+      "name": "Nike Court Borough Low 2",
+      "sizes": [18, 19, 20, 23, 24],
+      "price": "5799",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4dd367d2/products/NI_BQ5453-109/NI_BQ5453-109-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4dd367d2/products/NI_BQ5453-109/NI_BQ5453-109-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4dd367d2/products/NI_BQ5453-109/NI_BQ5453-109-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4dd367d2/products/NI_BQ5453-109/NI_BQ5453-109-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw4dd367d2/products/NI_BQ5453-109/NI_BQ5453-109-5.JPG"
+      ]
+    },
+    {
+      "id": "402",
+      "name": "Nike Team Hustle D 9",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "6229",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbf332fcc/products/NI_AQ4225-100/NI_AQ4225-100-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbf332fcc/products/NI_AQ4225-100/NI_AQ4225-100-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbf332fcc/products/NI_AQ4225-100/NI_AQ4225-100-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbf332fcc/products/NI_AQ4225-100/NI_AQ4225-100-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwbf332fcc/products/NI_AQ4225-100/NI_AQ4225-100-5.JPG"
+      ]
+    },
+    {
+      "id": "403",
+      "name": "Nike Court Borough Low 2",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "6229",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6607d4db/products/NI_BQ5451-700/NI_BQ5451-700-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6607d4db/products/NI_BQ5451-700/NI_BQ5451-700-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6607d4db/products/NI_BQ5451-700/NI_BQ5451-700-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6607d4db/products/NI_BQ5451-700/NI_BQ5451-700-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6607d4db/products/NI_BQ5451-700/NI_BQ5451-700-5.JPG"
+      ]
+    },
+    {
+      "id": "404",
+      "name": "Nike Court Vision Mid",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "11999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw03649c6d/products/NI_CD5436-100/NI_CD5436-100-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw03649c6d/products/NI_CD5436-100/NI_CD5436-100-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw03649c6d/products/NI_CD5436-100/NI_CD5436-100-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw03649c6d/products/NI_CD5436-100/NI_CD5436-100-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw03649c6d/products/NI_CD5436-100/NI_CD5436-100-5.JPG"
+      ]
+    },
+    {
+      "id": "405",
+      "name": "Nike Court Vision Low",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "10499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw487a44de/products/NI_CD5434-100/NI_CD5434-100-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw487a44de/products/NI_CD5434-100/NI_CD5434-100-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw487a44de/products/NI_CD5434-100/NI_CD5434-100-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw487a44de/products/NI_CD5434-100/NI_CD5434-100-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw487a44de/products/NI_CD5434-100/NI_CD5434-100-5.JPG"
+      ]
+    }
+  ],
+  "trending": [
+    {
+      "id": "015",
+      "name": "Nike Downshifter 10",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "10499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwacbd531c/products/NI_CI9981-401/NI_CI9981-401-5.JPG"
+      ]
+    },
+    {
+      "id": "207",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7892cf72/products/NI_AT7975-414/NI_AT7975-414-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7892cf72/products/NI_AT7975-414/NI_AT7975-414-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7892cf72/products/NI_AT7975-414/NI_AT7975-414-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7892cf72/products/NI_AT7975-414/NI_AT7975-414-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw7892cf72/products/NI_AT7975-414/NI_AT7975-414-5.JPG"
+      ],
+      "name": "Nike Superfly 7 Academy",
+      "price": "7999",
+      "sizes": [34, 35, 36, 37, 38, 39, 40]
+    },
+    
+    {
+      "id": "305",
+      "name": "Nike Renew Run",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "9999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9877eca3/products/NI_CK6360-005/NI_CK6360-005-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9877eca3/products/NI_CK6360-005/NI_CK6360-005-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9877eca3/products/NI_CK6360-005/NI_CK6360-005-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9877eca3/products/NI_CK6360-005/NI_CK6360-005-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw9877eca3/products/NI_CK6360-005/NI_CK6360-005-5.JPG"
+      ]
+    },
+    {
+      "id": "308",
+      "name": "Nike Court Vision Low",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "11499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw953e3f65/products/NI_CI7599-600/NI_CI7599-600-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw953e3f65/products/NI_CI7599-600/NI_CI7599-600-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw953e3f65/products/NI_CI7599-600/NI_CI7599-600-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw953e3f65/products/NI_CI7599-600/NI_CI7599-600-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw953e3f65/products/NI_CI7599-600/NI_CI7599-600-5.JPG"
+      ]
+    },
+    {
+      "id": "219",
+      "name": "Nike Phantom Vision",
+      "sizes": [36, 37, 38, 39, 40],
+      "price": "29999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3336064a/products/NI_AO3262-600/NI_AO3262-600-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3336064a/products/NI_AO3262-600/NI_AO3262-600-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3336064a/products/NI_AO3262-600/NI_AO3262-600-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3336064a/products/NI_AO3262-600/NI_AO3262-600-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3336064a/products/NI_AO3262-600/NI_AO3262-600-5.JPG"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "Nike In-Season Tr 9",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": "11999",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw591a6291/products/NI_AR4543-200/NI_AR4543-200-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw591a6291/products/NI_AR4543-200/NI_AR4543-200-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw591a6291/products/NI_AR4543-200/NI_AR4543-200-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw591a6291/products/NI_AR4543-200/NI_AR4543-200-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw591a6291/products/NI_AR4543-200/NI_AR4543-200-5.JPG"
+      ]
+    },
+    {
+      "id": "014",
+      "name": "Nike Renew Run",
+      "sizes": [34, 35, 36, 37, 38, 39, 40],
+      "price": "13499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw842c743e/products/NI_CK6357-002/NI_CK6357-002-5.JPG"
+      ]
+    },
+    {
+      "id": "112",
+      "name": "Nike Flex Essential",
+      "sizes": [38, 39, 40, 41],
+      "price": "9499",
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwcf184b2d/products/NI_924344-603/NI_924344-603-1.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwcf184b2d/products/NI_924344-603/NI_924344-603-2.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwcf184b2d/products/NI_924344-603/NI_924344-603-3.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwcf184b2d/products/NI_924344-603/NI_924344-603-4.JPG",
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwcf184b2d/products/NI_924344-603/NI_924344-603-5.JPG"
+      ]
+    }
+  ],
   "cart": []
 }
