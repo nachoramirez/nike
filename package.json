@@ -1,4 +1,5 @@
 {
+  "homepage":"https://nachoramirez.github.io/Nike",
   "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
@@ -24,7 +25,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "api": "json-server db.json"
+    "api": "json-server db.json",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +48,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.0",
     "styled-components": "^5.2.1"
   }
 }

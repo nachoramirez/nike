@@ -9,9 +9,12 @@ import {
   CartNumber,
 } from './Header'
 
-
-
 import { useSelector } from 'react-redux'
+
+import CartIcon from '../../static/Cart.svg'
+import NikeIcon from '../../static/NikeLogo.svg'
+
+
 
 const Header = () => {
   const location = useLocation(useLocation)
@@ -30,12 +33,12 @@ const Header = () => {
     <HeaderContainer>
       <Logo
         onClick={() => history.push('')}
-        src="https://i.pinimg.com/originals/20/60/2d/20602d43cc993811e5a6bd1886af4f33.png"
+        src={NikeIcon}
       />
       <>
         <Cart
           onClick={() => history.push('/cart')}
-          src="https://img.icons8.com/windows/64/000000/shopping-cart.png"
+          src={CartIcon}
         />
         <CartNumber onClick={() => history.push('/cart')}>
           ({cart.length})

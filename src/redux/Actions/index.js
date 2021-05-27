@@ -1,10 +1,10 @@
 import axios from 'axios'
 
-const API = 'https://4c2xeryelb.api.quickmocker.com/'
+const API = 'http://localhost:3000/'
 
 export const callProduct = (path) => async (dispatch, getState) => {
   try {
-    const res = await axios.get(`https://4c2xeryelb.api.quickmocker.com/${path}`)
+    const res = await axios.get(API+path)
     dispatch({
       type: 'CALL_PRODUCT',
       payload: res.data,
@@ -16,7 +16,7 @@ export const callProduct = (path) => async (dispatch, getState) => {
 
 export const CallTrendings = (path) => async (dispatch, getState) => {
   try {
-    const res = await axios.get(`https://4c2xeryelb.api.quickmocker.com/${path}`)
+    const res = await axios.get(API+path)
 
     dispatch({
       type: 'CALL_TRENDING',
@@ -29,7 +29,7 @@ export const CallTrendings = (path) => async (dispatch, getState) => {
 
 export const callCategoy = (path) => async (dispatch, getState) => {
   try {
-    const res = await axios.get(`https://4c2xeryelb.api.quickmocker.com/${path}`)
+    const res = await axios.get(API+path)
 
     dispatch({
       type: 'CALL_CATEGORY',

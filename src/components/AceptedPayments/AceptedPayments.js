@@ -6,6 +6,6 @@ export const AceptedPaymentsContainer = styled(Container)`
     height: 42px;
 `
 export const AceptedPayment = styled.img`
-    height: 100%;
+    height: 120%;
     padding-left: 8px;
 `

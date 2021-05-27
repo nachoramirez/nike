@@ -10,8 +10,7 @@ export const HeaderContainer = styled(Container)`
 `
 
 export const Logo = styled.img`
-  height: 50px;
-  margin: 40px 0px;
+width: 150px;
   cursor: pointer;
 `
 
