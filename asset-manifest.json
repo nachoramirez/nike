@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.js": "/Nike/static/js/main.96447c66.chunk.js",
-    "main.js.map": "/Nike/static/js/main.96447c66.chunk.js.map",
+    "main.js": "/Nike/static/js/main.67e2339b.chunk.js",
+    "main.js.map": "/Nike/static/js/main.67e2339b.chunk.js.map",
     "runtime-main.js": "/Nike/static/js/runtime-main.71fa3ac2.js",
     "runtime-main.js.map": "/Nike/static/js/runtime-main.71fa3ac2.js.map",
     "static/css/2.d1c75e18.chunk.css": "/Nike/static/css/2.d1c75e18.chunk.css",
-    "static/js/2.19e796d6.chunk.js": "/Nike/static/js/2.19e796d6.chunk.js",
-    "static/js/2.19e796d6.chunk.js.map": "/Nike/static/js/2.19e796d6.chunk.js.map",
+    "static/js/2.02bdc6ea.chunk.js": "/Nike/static/js/2.02bdc6ea.chunk.js",
+    "static/js/2.02bdc6ea.chunk.js.map": "/Nike/static/js/2.02bdc6ea.chunk.js.map",
     "index.html": "/Nike/index.html",
     "static/css/2.d1c75e18.chunk.css.map": "/Nike/static/css/2.d1c75e18.chunk.css.map",
-    "static/js/2.19e796d6.chunk.js.LICENSE.txt": "/Nike/static/js/2.19e796d6.chunk.js.LICENSE.txt"
+    "static/js/2.02bdc6ea.chunk.js.LICENSE.txt": "/Nike/static/js/2.02bdc6ea.chunk.js.LICENSE.txt",
+    "static/media/AmericanExpress.f1e74639.svg": "/Nike/static/media/AmericanExpress.f1e74639.svg",
+    "static/media/Cart.7c2e0c96.svg": "/Nike/static/media/Cart.7c2e0c96.svg",
+    "static/media/Mastercard.e7622b29.svg": "/Nike/static/media/Mastercard.e7622b29.svg",
+    "static/media/MercadoPago.1465fa29.svg": "/Nike/static/media/MercadoPago.1465fa29.svg",
+    "static/media/NikeLogo.b125d4f6.svg": "/Nike/static/media/NikeLogo.b125d4f6.svg",
+    "static/media/PayPal.da5a8ec4.svg": "/Nike/static/media/PayPal.da5a8ec4.svg",
+    "static/media/Visa.c20ff551.svg": "/Nike/static/media/Visa.c20ff551.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.71fa3ac2.js",
     "static/css/2.d1c75e18.chunk.css",
-    "static/js/2.19e796d6.chunk.js",
-    "static/js/main.96447c66.chunk.js"
+    "static/js/2.02bdc6ea.chunk.js",
+    "static/js/main.67e2339b.chunk.js"
   ]
 }
