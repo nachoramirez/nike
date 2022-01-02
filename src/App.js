@@ -19,14 +19,14 @@ const App = () => {
         <Header />
         <GlobalStyle />
         <Switch>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/running" component={Collections} />
-          <Route exact path="/training" component={Collections} />
-          <Route exact path="/futbol" component={Collections} />
-          <Route exact path="/sportswear" component={Collections} />
-          <Route exact path="/basquet" component={Collections} />
-          <Route exact path="/Cart" component={CartPage} />
-          <Route exact path="/:category/:id" component={ProductPage} />
+          <Route exact path="/nike" component={Home} />
+          <Route exact path="/nike/running" component={Collections} />
+          <Route exact path="/nike/training" component={Collections} />
+          <Route exact path="/nike/futbol" component={Collections} />
+          <Route exact path="/nike/sportswear" component={Collections} />
+          <Route exact path="/nike/basquet" component={Collections} />
+          <Route exact path="/nike/Cart" component={CartPage} />
+          <Route exact path="/nike/:category/:id" component={ProductPage} />
         </Switch>
       </div>
     </BrowserRouter>

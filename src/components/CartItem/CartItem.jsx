@@ -6,7 +6,7 @@ import {
   CartItemPrice,
   CartItemDescription,
   CartItemEspecifications,
-  DeleteViewContainer,
+  CartItemTitle,
   DeleteButton
 } from './CartItem'
 
@@ -22,7 +22,7 @@ const CartItem = ({ data }) => {
       <div>
         <CartItemImg src={images[0]} />
         <CartItemEspecifications>
-          <h3> {name} </h3>
+          <CartItemTitle> {name} </CartItemTitle>
           <CartItemDescription> Size: {size}</CartItemDescription>
           <CartItemDescription> Color: Black</CartItemDescription>
         </CartItemEspecifications>

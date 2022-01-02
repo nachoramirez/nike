@@ -2,11 +2,16 @@ import styled from 'styled-components'
 import { Container } from '../../containers/Containers.js'
 
 export const PreCheckoutContainer = styled(Container)`
-    flex-direction: column;
-    justify-content: flex-start;
-    width: 340px;
-    height: 340px;
-    background-color: #BBBBBB;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 340px;
+  height: 340px;
+  background-color: #bbbbbb;
+
+  @media (max-width: 800px) {
+    align-self: center;
+    width: 80%;
+  }
 `
 
 export const SummaryTittle = styled.h2`

@@ -6,5 +6,10 @@ export const ProductPageContainer = styled(Container)`
   justify-content: space-around;
   width: 85%;
   padding-left: 7.5%;
+
+  @media (max-width: 800px) {
+    margin-top: 40px;
+    flex-direction: column;
+  }
 `
 

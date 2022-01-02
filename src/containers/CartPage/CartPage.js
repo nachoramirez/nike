@@ -5,4 +5,8 @@ export const CartPageContainer = styled(Container)`
 
   justify-self: center;
   justify-content: space-around;
+
+  @media (max-width: 800px) {
+    flex-direction: column;
+  }
 `

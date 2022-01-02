@@ -26,7 +26,7 @@ const Cart = ({ history }) => {
       {data.map((data,key) => (
         <CartItem key={key} data={data} />
       ))}
-      <CartButton onClick={() => History.push()}>CHECKOUT 🠒</CartButton>
+      <CartButton onClick={() => History.push('/nike')}>CHECKOUT 🠒</CartButton>
     </CartContainer>
   )
 }

@@ -1,10 +1,16 @@
 import axios from 'axios'
 
-const API = 'http://localhost:3000/'
+const API1 = 'https://60ac7d2f9e2d6b00174574ae.mockapi.io/'
+const API2 = 'https://60ad79f880a61f0017331097.mockapi.io/'
 
 export const callProduct = (path) => async (dispatch, getState) => {
   try {
-    const res = await axios.get(API+path)
+    if (path.substring(5,12) === 'basquet') {
+      var res = await axios.get(API2 + path.substring(5))
+    } else {
+      var res = await axios.get(API1 + path.substring(5))
+    }
+
     dispatch({
       type: 'CALL_PRODUCT',
       payload: res.data,
@@ -16,7 +22,7 @@ export const callProduct = (path) => async (dispatch, getState) => {
 
 export const CallTrendings = (path) => async (dispatch, getState) => {
   try {
-    const res = await axios.get(API+path)
+    const res = await axios.get(API2 + path)
 
     dispatch({
       type: 'CALL_TRENDING',
@@ -29,7 +35,11 @@ export const CallTrendings = (path) => async (dispatch, getState) => {
 
 export const callCategoy = (path) => async (dispatch, getState) => {
   try {
-    const res = await axios.get(API+path)
+    if (path != 'basquet') {
+      var res = await axios.get(API1 + path)
+    } else {
+      var res = await axios.get(API2 + path)
+    }
 
     dispatch({
       type: 'CALL_CATEGORY',

@@ -3,6 +3,9 @@ import { Container } from '../../containers/Containers.js'
 
 export const SliderContainer = styled(Container)`
   height: 50vh;
+  @media (max-width: 800px){
+    height: 35vh;
+  }
 `
 const SlideAnimation = keyframes`
     25% { 
@@ -31,4 +34,7 @@ export const SliderImage = styled.div`
   background-image: url('https://c.static-nike.com/a/images/f_auto/dpr_3.0/h_500,c_limit/g1ljiszo4qhthfpluzbt/123-joyride-cdp-apla-xa-xp.jpg');
   animation: ${SlideAnimation} 30s infinite;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  @media (max-width: 800px){
+    width: 100%;
+  }
 `

@@ -22,7 +22,7 @@ const ShoeCard = ({ data, category }) => {
   }
 
   return (
-    <ShoeCardContainer onClick={() => history.push(`/${category}/${data.id}`)}>
+    <ShoeCardContainer onClick={() => history.push(`/nike/${category}/${data.id}`)}>
       <ShoeImage src={data.images[0]} />
       <ShoeName>{data.name} </ShoeName>
       <ShoePrice>${data.price}</ShoePrice>

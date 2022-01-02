@@ -4,12 +4,21 @@ import { Container } from '../../containers/Containers.js'
 export const DropDownContainer = styled(Container)`
   width: 90%;
   justify-content: flex-end;
+
+  @media (max-width: 800px) {
+    width: 100%;
+  }
 `
 
 export const ShortBy = styled.p`
   font-size: 22px;
   margin: 0px;
-  padding: 7px 8px 0 0 ;
+  padding: 7px 8px 0 0;
+
+  @media (max-width: 800px){
+    display: none;
+    padding: 0;
+  }
 `
 
 export const Ul = styled.ul`
@@ -18,20 +27,18 @@ export const Ul = styled.ul`
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #F1F1F1;
-cursor: pointer;
-
-`;
-
+  background-color: #f1f1f1;
+  cursor: pointer;
+`
 
 export const Dropbtn = styled.div`
-  width:90px;
+  width: 90px;
   height: 20px;
   display: inline-block;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-`;
+`
 
 export const DropDownContent = styled.div`
   border-radius: 3px;
@@ -41,7 +48,7 @@ export const DropDownContent = styled.div`
   min-width: 120px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
-`;
+`
 
 export const DropDownLi = styled.li`
   display: inline-block;
@@ -52,8 +59,7 @@ export const DropDownLi = styled.li`
   &:hover ${DropDownContent} {
     display: block;
   }
-`;
-
+`
 
 export const DropDownOption = styled.a`
   color: black;
@@ -62,7 +68,7 @@ export const DropDownOption = styled.a`
   display: block;
   text-align: left;
   &:hover {
-  color: white;
+    color: white;
     background-color: #673ab7;
   }
-`;
+`

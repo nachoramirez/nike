@@ -8,7 +8,7 @@ import { CollectionContainer } from './Collections'
 
 const Collections = ({ location }) => {
   const path = location.pathname
-  const Category = path.substring(1)
+  const Category = path.substring(6)
 
   return ( 
     <CollectionContainer>
