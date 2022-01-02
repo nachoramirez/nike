@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.js": "/nike/static/js/main.67e2339b.chunk.js",
-    "main.js.map": "/nike/static/js/main.67e2339b.chunk.js.map",
+    "main.js": "/nike/static/js/main.231bd721.chunk.js",
+    "main.js.map": "/nike/static/js/main.231bd721.chunk.js.map",
     "runtime-main.js": "/nike/static/js/runtime-main.1b37fdfa.js",
     "runtime-main.js.map": "/nike/static/js/runtime-main.1b37fdfa.js.map",
     "static/css/2.d1c75e18.chunk.css": "/nike/static/css/2.d1c75e18.chunk.css",
-    "static/js/2.9e3b301b.chunk.js": "/nike/static/js/2.9e3b301b.chunk.js",
-    "static/js/2.9e3b301b.chunk.js.map": "/nike/static/js/2.9e3b301b.chunk.js.map",
+    "static/js/2.c709fffe.chunk.js": "/nike/static/js/2.c709fffe.chunk.js",
+    "static/js/2.c709fffe.chunk.js.map": "/nike/static/js/2.c709fffe.chunk.js.map",
     "index.html": "/nike/index.html",
     "static/css/2.d1c75e18.chunk.css.map": "/nike/static/css/2.d1c75e18.chunk.css.map",
-    "static/js/2.9e3b301b.chunk.js.LICENSE.txt": "/nike/static/js/2.9e3b301b.chunk.js.LICENSE.txt",
+    "static/js/2.c709fffe.chunk.js.LICENSE.txt": "/nike/static/js/2.c709fffe.chunk.js.LICENSE.txt",
     "static/media/AmericanExpress.f1e74639.svg": "/nike/static/media/AmericanExpress.f1e74639.svg",
     "static/media/Cart.7c2e0c96.svg": "/nike/static/media/Cart.7c2e0c96.svg",
+    "static/media/Close.e28978b4.svg": "/nike/static/media/Close.e28978b4.svg",
     "static/media/Mastercard.e7622b29.svg": "/nike/static/media/Mastercard.e7622b29.svg",
+    "static/media/Menu.baa9f4c3.svg": "/nike/static/media/Menu.baa9f4c3.svg",
     "static/media/MercadoPago.1465fa29.svg": "/nike/static/media/MercadoPago.1465fa29.svg",
     "static/media/NikeLogo.b125d4f6.svg": "/nike/static/media/NikeLogo.b125d4f6.svg",
     "static/media/PayPal.da5a8ec4.svg": "/nike/static/media/PayPal.da5a8ec4.svg",
@@ -21,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.1b37fdfa.js",
     "static/css/2.d1c75e18.chunk.css",
-    "static/js/2.9e3b301b.chunk.js",
-    "static/js/main.67e2339b.chunk.js"
+    "static/js/2.c709fffe.chunk.js",
+    "static/js/main.231bd721.chunk.js"
   ]
 }
