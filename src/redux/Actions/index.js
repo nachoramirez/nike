@@ -4,8 +4,12 @@ const API1 = 'https://60ac7d2f9e2d6b00174574ae.mockapi.io/'
 const API2 = 'https://60ad79f880a61f0017331097.mockapi.io/'
 
 export const callProduct = (path) => async (dispatch, getState) => {
+  dispatch({
+    type: 'CURRENT_IS_LOADING',
+    payload: true,
+  })
   try {
-    if (path.substring(5,12) === 'basquet') {
+    if (path.substring(5, 12) === 'basquet') {
       var res = await axios.get(API2 + path.substring(5))
     } else {
       var res = await axios.get(API1 + path.substring(5))
@@ -34,6 +38,9 @@ export const CallTrendings = (path) => async (dispatch, getState) => {
 }
 
 export const callCategoy = (path) => async (dispatch, getState) => {
+  dispatch({
+    type: 'PRODUCT_IS_LOADING',
+  })
   try {
     if (path != 'basquet') {
       var res = await axios.get(API1 + path)

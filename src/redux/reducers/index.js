@@ -10,6 +10,16 @@ const initalState = {
 
 const initialReducer = (state = initalState, action) => {
   switch (action.type) {
+    case 'PRODUCT_IS_LOADING':
+      return {
+        ...state,
+        productsIsLoading: true,
+      }
+    case 'CURRENT_IS_LOADING' :
+      return {
+        ...state,
+        currentProductIsLoading: true,
+      }
     case 'CALL_CATEGORY':
       return {
         ...state,

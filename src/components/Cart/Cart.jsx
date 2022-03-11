@@ -18,7 +18,7 @@ const Cart = ({ history }) => {
     <CartContainer>
       <CartHeader />
       <CartEmpty> Your cart is empty :(</CartEmpty>
-      <CartButton onClick={() => History.push('')}>GO SHOPPING 🠒</CartButton>
+      <CartButton onClick={() => History.push('/nike')}>GO SHOPPING 🠒</CartButton>
     </CartContainer>
   ) : (
     <CartContainer>

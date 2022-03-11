@@ -1,14 +1,17 @@
 import styled from 'styled-components'
 import { Container } from '../../containers/Containers.js'
 
-
 export const ShoeCollectionContainer = styled(Container)`
-  width: 65%;
+  width: 79%;
   padding: 30px 0px;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-content: flex-start;
-  @media (max-width: 820px){
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 250px);
+  grid-gap: 5px;
+  @media (max-width: 820px) {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: flex-start;
     width: 100%;
     margin: 80px 0;
   }
@@ -29,8 +32,8 @@ export const CollectionResults = styled.p`
   padding-top: 80px;
   left: 50px;
   @media (max-width: 820px) {
-    left:50%;
-    transform: translateX(-50%) ;
+    left: 50%;
+    transform: translateX(-50%);
     padding-top: 0px;
     font-size: 20px;
   }

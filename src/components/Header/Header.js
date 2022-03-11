@@ -91,9 +91,9 @@ export const Category = styled.h1`
   &:hover {
     cursor: pointer;
     border-bottom-color: #673ab7;
-    padding: 0 15px 60px 15px;
+    transform: scale(1.2);
     color: #673ab7;
-    font-size: 28px;
+
   }
   @media (max-width: 768px) {
     &:hover {
