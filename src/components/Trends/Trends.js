@@ -9,11 +9,15 @@ export const TrendsContainer = styled(Container)`
 
 export const TrendsShoesContainer = styled(Container)`
   width: 65%;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  padding-bottom: 50px;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 250px);
+  grid-gap: 5px;
 
   @media (max-width: 800px) {
     width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-bottom: 50px;
   }
 `
