@@ -1,6 +1,7 @@
-## Nike Ecommerce frontent 
+## Nike Ecommerce frontend
 
-A frontent Ecommerce for nike snikkers and shoes, This app uses Redux for the data management of the products and the shopping cart.
+
+A frontend Ecommerce for nike snikkers and shoes, This app uses Redux for the data management of the products and the shopping cart.
 
 
 ## Screenshot
